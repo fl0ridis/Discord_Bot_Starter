@@ -9,3 +9,5 @@ Set Shell = CreateObject("WScript.Shell")
          Answer = MsgBox("Ok.Wanna start the bot?",1+16,"Bot Starting")
          Shell.run "node index.js"
          End If
+
+--this is a test
